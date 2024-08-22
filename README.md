@@ -69,4 +69,4 @@ STEP 6: Use zscore of to remove outliers
 ``
             
 # Result
-          <<include your Result here>>
+          thus the given data and perform data cleaning and save the cleaned data to a file is done
